@@ -1,0 +1,39 @@
+body { 
+    background-color:aliceblue;
+}
+
+.title {
+    color:black;
+    background-color: orange;
+    font-weight: 200;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+
+.capture {
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.contact-info {
+    background-color: whitesmoke;
+    color: blue;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.panda {
+    position: relative;
+    left: 750px;
+    padding: 10px;
+}
+
+footer {
+    background-color: rgb(143, 58, 143);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    text-align: center;
+}
